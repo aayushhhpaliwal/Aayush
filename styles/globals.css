@@ -18,6 +18,7 @@
 #switcher,
 #showSwitcher {
   transition: 1s all;
+  display: none;
 }
 #switcher.open,
 #showSwitcher.open {
