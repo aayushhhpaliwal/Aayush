@@ -7,7 +7,7 @@ const Copyright = () => {
         src="assets/separator-copyright.png"
       />
       <div>
-        <span>© {new Date().getFullYear()} Steven Walker</span>
+        <span>© {new Date().getFullYear()} Aayush Paliwal</span>
         <span>
           Designed By{" "}
           <a
@@ -19,12 +19,12 @@ const Copyright = () => {
         </span>
         <ul>
           <li>
-            <a href="#">
+            <a href="https://github.com/aayushhhpaliwal">
               <i className="fa-brands fa-github" />
             </a>
           </li>
           <li>
-            <a href="#">
+            <a href="https://twitter.com/aayushpaliwal62">
               <i className="fa-brands fa-twitter" />
             </a>
           </li>
