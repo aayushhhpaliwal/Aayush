@@ -12,9 +12,9 @@ const Copyright = () => {
           Designed By{" "}
           <a
             target="_blank"
-            href="https://themeforest.net/user/Codeefly/portfolio"
+            // href="https://themeforest.net/user/Codeefly/portfolio"
           >
-            Codeefly
+            Aayush
           </a>
         </span>
         <ul>
