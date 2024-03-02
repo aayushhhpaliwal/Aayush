@@ -208,6 +208,25 @@ const About = () => {
           <ol className="animated-layer fade-in-animation">
             {/* TIMELINE ITEM STARTS */}
             <li>
+              <div className="animated-layer fade-in-up-animation fadeInUp wow">
+                <div className="experience">
+                  <h4>Motion Graphics Designer</h4>
+                  <p>
+                    <i className="fa-regular fa-clock" />
+                    <span>2024-Freelancer</span>
+                  </p>
+                  <p>
+                    <i className="fa-regular fa-building" />
+                    <span>
+                      <a href="https://smarketingcloud.com/">
+                        Smarketing Clouds
+                      </a>
+                    </span>
+                  </p>
+                </div>
+              </div>
+            </li>
+            <li>
               <div className="animated-layer fade-in-down-animation fadeInUp wow">
                 <div className="experience">
                   <h4>Full Stack Engineer</h4>
@@ -222,8 +241,26 @@ const About = () => {
                 </div>
               </div>
             </li>
+            <li>
+              <div className="animated-layer fade-in-down-animation fadeInUp wow">
+                <div className="experience">
+                  <h4>Project Manager</h4>
+                  <p>
+                    <i className="fa-regular fa-clock" />
+                    <span>2024 - Now</span>
+                  </p>
+                  <p>
+                    <i className="fa-regular fa-building" />
+                    <a href="https://aimventure.in/">
+                      <span>AimVentures</span>
+                    </a>
+                  </p>
+                </div>
+              </div>
+            </li>
             {/* TIMELINE ITEM ENDS */}
             {/* TIMELINE ITEM STARTS */}
+
             <li>
               <div className="animated-layer fade-in-up-animation fadeInUp wow">
                 <div className="experience">
