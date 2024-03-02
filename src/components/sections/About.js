@@ -219,7 +219,7 @@ const About = () => {
                     <i className="fa-regular fa-building" />
                     <span>
                       <a href="https://smarketingcloud.com/">
-                        Smarketing Clouds
+                        Smarketing Clouds, USA
                       </a>
                     </span>
                   </p>
@@ -236,7 +236,10 @@ const About = () => {
                   </p>
                   <p>
                     <i className="fa-regular fa-building" />
-                    <span>Mae - Made of Earth</span>
+                    <a href="https://mae.in/">
+                      {" "}
+                      <span>Mae - Made of Earth, Mumbai</span>
+                    </a>
                   </p>
                 </div>
               </div>
@@ -252,7 +255,7 @@ const About = () => {
                   <p>
                     <i className="fa-regular fa-building" />
                     <a href="https://aimventure.in/">
-                      <span>AimVentures</span>
+                      <span>AimVentures, Ratlam</span>
                     </a>
                   </p>
                 </div>
@@ -271,7 +274,9 @@ const About = () => {
                   </p>
                   <p>
                     <i className="fa-regular fa-building" />
-                    <span>Blueslag Technoglies</span>
+                    <a href="https://blueslag.com/">
+                      <span>Blueslag Technologies, Indore</span>
+                    </a>
                   </p>
                 </div>
               </div>
@@ -288,41 +293,28 @@ const About = () => {
                   </p>
                   <p>
                     <i className="fa-regular fa-building" />
-                    <span>Blueslag Technoglies</span>
+                    <a href="https://blueslag.com/">
+                      <span>Blueslag Technologies, Indore</span>
+                    </a>
                   </p>
                 </div>
               </div>
             </li>
             {/* TIMELINE ITEM ENDS */}
             {/* TIMELINE ITEM STARTS */}
-            <li>
-              <div className="animated-layer fade-in-up-animation fadeInUp wow">
-                <div className="education">
-                  <h4></h4>
-                  <p>
-                    <i className="fa-regular fa-clock" />
-                    <span></span>
-                  </p>
-                  <p>
-                    <i className="fa-solid fa-building-columns" />
-                    <span></span>
-                  </p>
-                </div>
-              </div>
-            </li>
             {/* TIMELINE ITEM ENDS */}
             {/* TIMELINE ITEM STARTS */}
             <li>
               <div className="animated-layer fade-in-down-animation fadeInUp wow">
                 <div className="education">
-                  <h4></h4>
+                  <h4>Jr. Web developer</h4>
                   <p>
                     <i className="fa-regular fa-clock" />
-                    <span>1999</span>
+                    <span>2019-2021</span>
                   </p>
                   <p>
                     <i className="fa-solid fa-building-columns" />
-                    <span></span>
+                    <span>Aksh Infotech , Ahmedabad</span>
                   </p>
                 </div>
               </div>

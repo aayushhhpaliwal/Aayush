@@ -51,7 +51,7 @@ const Portfolio = () => {
                   <span>
                     <i className="fa-regular fa-user" /> Client :
                   </span>
-                  <span>Envato</span>
+                  <span>Blueslag</span>
                 </li>
                 <li>
                   <span>
@@ -222,7 +222,7 @@ const Portfolio = () => {
                   <span>
                     <i className="fa-regular fa-user" /> Client :
                   </span>
-                  <span>Envato</span>
+                  <span>AimVentures</span>
                 </li>
                 <li>
                   <span>
