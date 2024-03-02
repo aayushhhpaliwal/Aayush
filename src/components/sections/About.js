@@ -210,14 +210,14 @@ const About = () => {
             <li>
               <div className="animated-layer fade-in-down-animation fadeInUp wow">
                 <div className="experience">
-                  <h4>Project Manager</h4>
+                  <h4>Full Stack Engineer</h4>
                   <p>
                     <i className="fa-regular fa-clock" />
-                    <span>2019 - Now</span>
+                    <span>2023 - Now</span>
                   </p>
                   <p>
                     <i className="fa-regular fa-building" />
-                    <span>Adobe Company</span>
+                    <span>Mae - Made of Earth</span>
                   </p>
                 </div>
               </div>
@@ -227,14 +227,14 @@ const About = () => {
             <li>
               <div className="animated-layer fade-in-up-animation fadeInUp wow">
                 <div className="experience">
-                  <h4>Team Leader</h4>
+                  <h4>Full Stack Engineer</h4>
                   <p>
                     <i className="fa-regular fa-clock" />
-                    <span>2015 - 2019</span>
+                    <span>2021-2022</span>
                   </p>
                   <p>
                     <i className="fa-regular fa-building" />
-                    <span>Twitter Inc</span>
+                    <span>Blueslag Technoglies</span>
                   </p>
                 </div>
               </div>
@@ -244,14 +244,14 @@ const About = () => {
             <li>
               <div className="animated-layer fade-in-down-animation fadeInUp wow">
                 <div className="experience">
-                  <h4>Web Developer</h4>
+                  <h4>Motion Grphics Designer</h4>
                   <p>
                     <i className="fa-regular fa-clock" />
-                    <span>2010 - 2015</span>
+                    <span>2021 - 2022</span>
                   </p>
                   <p>
                     <i className="fa-regular fa-building" />
-                    <span>Facebook</span>
+                    <span>Blueslag Technoglies</span>
                   </p>
                 </div>
               </div>
