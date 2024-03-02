@@ -261,14 +261,14 @@ const About = () => {
             <li>
               <div className="animated-layer fade-in-up-animation fadeInUp wow">
                 <div className="education">
-                  <h4>Master Degree</h4>
+                  <h4></h4>
                   <p>
                     <i className="fa-regular fa-clock" />
-                    <span>2003</span>
+                    <span></span>
                   </p>
                   <p>
                     <i className="fa-solid fa-building-columns" />
-                    <span>London University</span>
+                    <span></span>
                   </p>
                 </div>
               </div>
@@ -278,14 +278,14 @@ const About = () => {
             <li>
               <div className="animated-layer fade-in-down-animation fadeInUp wow">
                 <div className="education">
-                  <h4>Bachelor Degree</h4>
+                  <h4></h4>
                   <p>
                     <i className="fa-regular fa-clock" />
                     <span>1999</span>
                   </p>
                   <p>
                     <i className="fa-solid fa-building-columns" />
-                    <span>Berlin High School</span>
+                    <span></span>
                   </p>
                 </div>
               </div>
