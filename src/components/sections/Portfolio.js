@@ -159,25 +159,25 @@ const Portfolio = () => {
                   <span>
                     <i className="fa-regular fa-file-lines" /> Project :
                   </span>
-                  <span>Mobile App</span>
+                  <span>Miro clone</span>
                 </li>
                 <li>
                   <span>
                     <i className="fa-regular fa-user" /> Client :
                   </span>
-                  <span>Codecanyon</span>
+                  <span>My own Prject</span>
                 </li>
                 <li>
                   <span>
                     <i className="fa-regular fa-hourglass" /> Duration :
                   </span>
-                  <span>3 months</span>
+                  <span>1 month</span>
                 </li>
                 <li>
                   <span>
                     <i className="fa-solid fa-code-branch" /> Frameworks :
                   </span>
-                  <span>React JS</span>
+                  <span>Nextjs , Prisma</span>
                 </li>
               </ul>
             </div>
@@ -194,11 +194,7 @@ const Portfolio = () => {
         <SwiperSlide className="single-item swiper-slide">
           {/* ITEM MAIN CONTENT STARTS */}
           <div className="main-content">
-            <a
-              href="https://themeforest.net"
-              target="_blank"
-              className="external"
-            >
+            <a href="my project link" target="_blank" className="external">
               <img
                 className="img-fluid"
                 src="assets/portfolio/project-3.jpg"
@@ -214,7 +210,7 @@ const Portfolio = () => {
               <ul>
                 <li>
                   <span>
-                    <i className="fa-regular fa-file-lines" /> Project :
+                    <i className="fa-regular fa-file-lines" /> Projects :
                   </span>
                   <span>Advertising</span>
                 </li>
