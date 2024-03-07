@@ -30,7 +30,7 @@ const Copyright = () => {
           </li>
           <li>
             <a href="#">
-              <i className="fa-brands fa-dribbble" />
+              <i className="fa-brands fa-behance" />
             </a>
           </li>
           <li>
