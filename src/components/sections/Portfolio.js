@@ -38,7 +38,7 @@ const Portfolio = () => {
           {/* ITEM MAIN CONTENT ENDS */}
           {/* ITEM DETAILS STARTS */}
           <div className="details">
-            <h4>My Project</h4>
+            <h4>My Projects</h4>
             <div>
               <ul>
                 <li>
