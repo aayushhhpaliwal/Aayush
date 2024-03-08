@@ -56,7 +56,7 @@ const Facts = () => {
             <div>
               <h3>6</h3>
               <p>
-                Certifucates<span>Achieved</span>
+                Certificates<span>Achieved</span>
               </p>
             </div>
           </div>
