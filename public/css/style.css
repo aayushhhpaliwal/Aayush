@@ -69,6 +69,9 @@ section {
 .main-section {
   background-color: #0b0b0b;
 }
+.experience a{
+  color:white;
+}
 
 .img-container {
   position: relative;

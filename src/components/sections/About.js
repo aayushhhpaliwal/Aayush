@@ -218,8 +218,8 @@ const About = () => {
                   <p>
                     <i className="fa-regular fa-building" />
                     <span>
-                      <a href="https://smarketingcloud.com/">
-                        Smarketing Clouds, USA
+                      <a href="https://smarketingcloud.com/" target="_blank">
+                        Smarketing Clouds, Ireland
                       </a>
                     </span>
                   </p>
@@ -238,7 +238,7 @@ const About = () => {
                     <i className="fa-regular fa-building" />
                     <a href="https://mae.in/">
                       {" "}
-                      <span>Mae - Made of Earth, Mumbai</span>
+                      <span>Mae - Made of Earth</span>
                     </a>
                   </p>
                 </div>
@@ -255,7 +255,7 @@ const About = () => {
                   <p>
                     <i className="fa-regular fa-building" />
                     <a href="https://aimventure.in/">
-                      <span>AimVentures, Ratlam</span>
+                      <span>AimVentures</span>
                     </a>
                   </p>
                 </div>
@@ -267,7 +267,7 @@ const About = () => {
             <li>
               <div className="animated-layer fade-in-up-animation fadeInUp wow">
                 <div className="experience">
-                  <h4>Full Stack Engineer</h4>
+                  <h4>Full Stack Engineer, Motion Graphics Designer</h4>
                   <p>
                     <i className="fa-regular fa-clock" />
                     <span>2021-2022</span>
@@ -275,7 +275,7 @@ const About = () => {
                   <p>
                     <i className="fa-regular fa-building" />
                     <a href="https://blueslag.com/">
-                      <span>Blueslag Technologies, Indore</span>
+                      <span>Blueslag Technologies </span>
                     </a>
                   </p>
                 </div>
@@ -283,23 +283,7 @@ const About = () => {
             </li>
             {/* TIMELINE ITEM ENDS */}
             {/* TIMELINE ITEM STARTS */}
-            <li>
-              <div className="animated-layer fade-in-down-animation fadeInUp wow">
-                <div className="experience">
-                  <h4>Motion Grphics Designer</h4>
-                  <p>
-                    <i className="fa-regular fa-clock" />
-                    <span>2021 - 2022</span>
-                  </p>
-                  <p>
-                    <i className="fa-regular fa-building" />
-                    <a href="https://blueslag.com/">
-                      <span>Blueslag Technologies, Indore</span>
-                    </a>
-                  </p>
-                </div>
-              </div>
-            </li>
+
             {/* TIMELINE ITEM ENDS */}
             {/* TIMELINE ITEM STARTS */}
             {/* TIMELINE ITEM ENDS */}
@@ -314,7 +298,7 @@ const About = () => {
                   </p>
                   <p>
                     <i className="fa-solid fa-building-columns" />
-                    <span>Aksh Infotech , Ahmedabad</span>
+                    <span>Aksh Infotech </span>
                   </p>
                 </div>
               </div>
