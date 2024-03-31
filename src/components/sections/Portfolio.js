@@ -91,7 +91,7 @@ const Portfolio = () => {
           {/* ITEM MAIN CONTENT ENDS */}
           {/* ITEM DETAILS STARTS */}
           <div className="details">
-            <h4>Youtube Project</h4>
+            <h4>Youtube Projects</h4>
             <div>
               <ul>
                 <li>
