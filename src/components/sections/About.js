@@ -210,6 +210,25 @@ const About = () => {
             <li>
               <div className="animated-layer fade-in-up-animation fadeInUp wow">
                 <div className="experience">
+                  <h4>Shopify Developer</h4>
+                  <p>
+                    <i className="fa-regular fa-clock" />
+                    <span>2024-March</span>
+                  </p>
+                  <p>
+                    <i className="fa-regular fa-building" />
+                    <span>
+                      <a href="https://smarketingcloud.com/" target="_blank">
+                        Ecomrolodex, Dotcom Engine
+                      </a>
+                    </span>
+                  </p>
+                </div>
+              </div>
+            </li>
+            <li>
+              <div className="animated-layer fade-in-up-animation fadeInUp wow">
+                <div className="experience">
                   <h4>Motion Graphics Designer</h4>
                   <p>
                     <i className="fa-regular fa-clock" />
